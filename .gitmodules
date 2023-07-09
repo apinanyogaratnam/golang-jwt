@@ -1,3 +1,6 @@
 [submodule "jwt-protobuf"]
 	path = jwt-protobuf
 	url = git@github.com:apinanyogaratnam/jwt-protobuf
+[submodule "jwt-grpc-server"]
+	path = jwt-grpc-server
+	url = git@github.com:apinanyogaratnam/jwt-grpc-server
