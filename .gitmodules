@@ -4,3 +4,6 @@
 [submodule "jwt-grpc-server"]
 	path = jwt-grpc-server
 	url = git@github.com:apinanyogaratnam/jwt-grpc-server
+[submodule "jwt-user-service"]
+	path = jwt-user-service
+	url = git@github.com:apinanyogaratnam/jwt-user-service
